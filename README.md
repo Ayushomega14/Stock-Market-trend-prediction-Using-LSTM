@@ -102,7 +102,7 @@ cd Stock-Market-Trend-Prediction-Using-Time-Series-Analysis
 3.	Install the required dependencies:
 pip install -r requirements.txt
 
-Make sure to have the Bajaj Stock Dataset.csv dataset in the data/ folder.
+Make sure to have the Bajaj Stock Dataset.csv dataset from Kaggle in the data/ folder.
 
 ## Data
 
