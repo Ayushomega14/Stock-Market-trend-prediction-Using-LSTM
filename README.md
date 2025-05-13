@@ -143,7 +143,7 @@ The following evaluation metrics were used to compare the models:
 	•	Mean Squared Error (MSE): Measures the average squared difference between predicted and actual values.
 	•	Mean Absolute Error (MAE): Measures the average absolute difference between predicted and actual values.
 
-Results for each model can be found in the output of the Jupyter notebooks.
+Results for each model can be found in the output of the Jupyter notebook.
 
 ## Contributing
 
